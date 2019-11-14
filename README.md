@@ -1,0 +1,1 @@
+# -sikuli-demo-test-suite
