@@ -1,1 +1,1 @@
-# -sikuli-demo-test-suite
+# sikuli-demo-test-suite
